@@ -1,0 +1,8 @@
+{
+  "name": "Victor Lin",
+  "expected_salary": 75000,
+  "expected_job_type": "internship",
+  "preferred_location": "new york",
+  "skillset": [ "javascript", "html", "css" ],
+  "open_to_remote": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Benedict Carrillo",
+  "expected_salary": 100000,
+  "expected_job_type": "full-time",
+  "preferred_location": "san francisco",
+  "skillset": [ "ruby on rails", "ember.js", "node.js" ],
+  "open_to_remote": true
+}
